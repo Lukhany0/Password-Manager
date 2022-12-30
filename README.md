@@ -6,6 +6,6 @@ To use the application, user must first login or create an account if not regist
 In the application user can add 
 <hr>
 <img src = "images/login.png" width="400">
-<img src = "images/createAccount.png">
-<img src = "images/main.png">
-<img src = "images/enterData.png">
+<img src = "images/createAccount.png" width="400">
+<img src = "images/main.png" width="600">
+<img src = "images/enterData.png" width="600">
