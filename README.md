@@ -12,6 +12,6 @@ In the application user can add
 
 ## Run code
 
-To run the program, mysql, tkinter, python3 must be install in the running machine
+To run the program, mysql, tkinter and python3 must be install in the running machine
 
 
